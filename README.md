@@ -1,6 +1,10 @@
 # Artificial Neural Network (ANN) Platform
+# NPU-ANN
 
-> A complete neural network framework built **from scratch using NumPy only** — no PyTorch, no TensorFlow, no autograd.
+Group Team:
+1. Tolegen Aiteni
+2. Erniyaz Ashuov
+3. Daulet Akhmetbekov
 
 ---
 
